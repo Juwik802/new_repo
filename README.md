@@ -1,1 +1,3 @@
-# new_repo
+fun main() {
+ println("Hello")
+}
