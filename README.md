@@ -1,3 +1,5 @@
 fun main() {
- println("Hello")
+ while(var i = 0; i < 10; i++) {
+  println("Hello")
+ }
 }
